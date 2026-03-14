@@ -1,4 +1,4 @@
-# PostgreSQL — Complete SDE Interview Guide
+# PostgreSQL 
 
 A comprehensive reference covering all core PostgreSQL concepts with real-world examples, designed for software engineering interviews.
 
